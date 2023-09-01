@@ -1,8 +1,14 @@
 # Customer Churn Prediction in Telecommunications-Machine Learning Classification Project
 This repository contains a machine learning project focused on predicting customer churn in the telecommunications industry. Customer churn refers to the phenomenon where customers discontinue using a company's services. Understanding and predicting churn is crucial for telecom companies to retain customers and maintain profitability.
 
+## Summary
+|     Jupyter Notebook                       | Published Article|    PowerBi Dashboard Deployment
+| -------------                  | -------------    |    -----------------
+|[Notebook with code and full analysis](https://github.com/rasmodev/Customer-Churn-Prediction-Machine-Learning-Classification-Project/blob/main/Classification_Telco_customer_churn.ipynb)|  [Published Article](https://medium.com/@rasmowanyama/exploratory-data-analysis-of-the-funding-in-the-indian-start-up-ecosystem-2018-2021-7065618d9a93)               |[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODM4ODAwOWUtMDFiYi00OTE0LTg0MzQtMzM1OTdiY2I3NDlmIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9&embedImagePlaceholder=true)
+
+
 ## Project Overview
-The goal of this project is to develop a predictive model that can accurately identify customers who are likely to churn. By analyzing a comprehensive dataset provided by a telecom company, we aim to uncover patterns, relationships, and key factors influencing churn. The project involves data exploration, preprocessing, feature engineering, model development, evaluation, and interpretation.
+The goal of this project is to develop a predictive model that can accurately identify customers who are likely to churn. By analyzing a comprehensive dataset provided by a telecom company, I aim to uncover patterns, relationships, and key factors influencing churn. The project involves data exploration, preprocessing, feature engineering, model development, evaluation, and interpretation.
 
 ## Key Features
 **Exploratory Data Analysis (EDA):** Gain insights into the dataset and understand the distribution, relationships, and characteristics of the variables.
